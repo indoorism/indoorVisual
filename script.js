@@ -1,4 +1,4 @@
-const button1 = document.getElementById('button1')
+const button1 = document.getElementById('button1');
 let audio1 = new audio();
 audio1.src = 'spell.wav';
 
